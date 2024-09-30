@@ -1,3 +1,3 @@
 # PRACTICE
 
-Learning git
+Learning git and github.
